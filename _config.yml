@@ -1,0 +1,247 @@
+#
+# Sera - OnePage Jekyll Theme
+# Configuration File
+#
+
+# Information for compile
+exclude: ["Gemfile", "README.md"]
+
+# Sass configuration
+sass:
+  sass_dir: _scss
+
+# Information for deploy
+baseurl: ""
+
+# the base hostname & protocol for your site
+url: "http://localhost:4000"
+
+####################################
+######   Optional Features    ######
+####################################
+smooth-scroll: false
+
+####################################
+###########   Plugins    ###########
+####################################
+plugins:
+  - jekyll-archives
+
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layout: "archive"
+  permalinks:
+    category: "/category/:name/"
+    tag: "/tag/:name/"
+
+#######################################################
+#######################################################
+###############   HEADER INFORMATIONS   ###############
+#######################################################
+#######################################################
+
+# This is your site title
+title: SummitGrid
+# Website language
+lang: en-US
+# Header Title
+header-title: Powering Sustainable Infrastructure Worldwide
+# Header Tagline
+headter-tagline: 
+
+
+####################################
+######  Global Social Links   ######
+####################################
+# youtube: "#"
+# pinterest: "#"
+# facebook: "#"
+# twitter: "#"
+# google-plus: "#"
+# vimeo: "#"
+
+#########################
+######   Widgets   ######
+#########################
+
+
+# Google Map JS api
+# key-api: YOUR_GOOGLE_MAP_API_KEY
+# map-text: Sera Google Map
+# map-lat: 44.4267674
+# map-lng: 26.102538399999958
+
+# Enter your Mailchimp User ID and Campaign ID
+# @TODO: Add in a link for where to find these
+mailchimp:
+  user-id: REPLACEME
+  list-id: REPLACEME
+
+####
+#
+# Hi you now use Sera - OnePage Jekyll Theme created by Ohkimur
+#
+# Below are each section from the website in order from top to bottom
+# @TODO Edit each sections with your real information and each section from Sera will autocomplete with your information
+#
+####
+
+#####################################
+#############   About   #############
+#####################################
+about-title: Who We Are
+about-description: We are a global provider of integrated renewable energy solutions, delivering end-to-end services across investment, development, construction, and long-term operations. We build efficient and scalable energy infrastructure, including solar, wind, energy storage, and EV charging systems. 
+about-description2: With a strong international presence, we support projects across North America, South America, the Middle East, Southeast Asia, and West Africa. Combining global expertise with localized execution, we deliver reliable and sustainable energy solutions tailored to diverse market needs.
+#####################################
+#############  Features  ############
+#####################################
+features-title: What We Do
+features-description: 
+
+#
+# Features
+#
+features:
+  # Feature
+  - title: Investment
+    description: We invest in high-impact energy projects, driving sustainable growth and long-term value across global markets.
+    icon: pe-7s-cash
+
+  # Feature
+  - title: Building
+    description: We design and deliver renewable energy infrastructure with a focus on efficiency, reliability, and scalability.
+    icon: pe-7s-tools
+
+  # Feature
+  - title: Operations
+    description: We operate and optimize energy systems to ensure consistent performance and maximum efficiency.
+    icon: pe-7s-settings
+
+  # Feature
+  - title: Aftermarket Services
+    description: We provide maintenance, inspection, and technical support to extend asset life and ensure peak performance.
+    icon: pe-7s-refresh-2
+
+#####################################
+#############  Solutions  ############
+#####################################
+solutions-title: Solutions
+solutions-description: We deliver practical, scalable energy solutions designed to meet the evolving needs of modern infrastructure and industry.
+# Features
+#
+solutions:
+  # Feature
+  - title: Solar
+    description: Scalable solar systems engineered for efficient, reliable, and cost-effective clean energy generation.
+    icon: pe-7s-sun
+
+  # Feature
+  - title: Wind
+    description: High-performance wind solutions designed for durability and consistent energy generation in diverse environments.
+    icon: pe-7s-gleam
+
+  # Feature
+  - title: Storage
+    description: Advanced energy storage systems that enhance reliability, flexibility, and seamless renewable integration.
+    icon: pe-7s-battery
+
+
+
+#####################################
+############  Portfolio  ############
+#####################################
+portfolio-title: Applications 
+portfolio-description: Explore how our solar, wind, and storage solutions are applied across real-world energy systems and infrastructure.
+#
+# Portfolio Grid
+#
+portfolio-categories:
+  [Solar, Wind, Storage]
+portfolio:
+  # Portfolio Item
+  - title: S<span class="thin">era</span> Style
+    categories: [Websites, Graphic Design]
+    image: img-01.jpg
+    url: "#"
+
+  # Portfolio Item
+  - title: S<span class="thin">era</span> Style
+    categories: [Graphic Design, Logo, Websites]
+    image: img-02.jpg
+    url: "#"
+
+  # Portfolio Item
+  - title: S<span class="thin">era</span> Style
+    categories: [Graphic Design, Logo, Photography]
+    image: img-03.jpg
+    url: "#"
+
+  # Portfolio Item
+  - title: S<span class="thin">era</span> Style
+    categories: [Websites, Video, Photography]
+    image: img-04.jpg
+    url: "#"
+
+  # Portfolio Item
+  - title: S<span class="thin">era</span> Style
+    categories: [Development, Logo]
+    image: img-05.jpg
+    url: "#"
+
+  # Portfolio Item
+  - title: S<span class="thin">era</span> Style
+    categories: [Development, Video]
+    image: img-06.jpg
+    url: "#"
+
+  # Portfolio Item
+  - title: S<span class="thin">era</span> Style
+    categories: [Websites, Graphic Design]
+    image: img-07.jpg
+    url: "#"
+
+  # Portfolio Item
+  - title: S<span class="thin">era</span> Style
+    categories: [Websites, Video]
+    image: img-08.jpg
+    url: "#"
+
+  # Portfolio Item
+  - title: S<span class="thin">era</span> Style
+    categories: [Photography, Logo]
+    image: img-09.jpg
+    url: "#"
+
+
+#####################################
+############### Team ################
+#####################################
+team-title: Meet Our Team
+team-description: 
+# Team Members
+#
+team:
+  # Team Member
+  - name: 
+    tagline: 
+    avatar: 
+
+
+
+
+
+#####################################
+############   Contact   ############
+#####################################
+contact-title: Contact Us
+contact-description: Contact us to learn more about our solutions and services.
+
+#####################################
+#############   Footer   ############
+#####################################
+footer-description: 
+footer-copyright-text: SummitGrid Energy Investments Canada Corp.
+footer-copyright-url: 
+footer-copyright-year: 2026
