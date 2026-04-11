@@ -121,7 +121,7 @@ features:
 
   # Feature
   - title: Aftermarket Services
-    description: We provide maintenance, inspection, and technical support to extend asset life and ensure peak performance.
+    description: We provide maintenance, inspection, technical support, and upgrades to extend asset life and ensure peak performance.
     icon: pe-7s-refresh-2
 
 #####################################
@@ -215,6 +215,96 @@ portfolio:
     url: "#"
 
 
+
+#####################################
+##########  Core Features  ##########
+#####################################
+core-title: Solar Panel Technology
+core-description: Built on advanced TOPCon cell technology, our solar modules deliver high power output, low degradation, and optimized performance across a wide range of operating conditions.
+#
+# Core Features Left
+#
+core-features-left:
+  # Feature
+  - name: High Power Output
+    description: Modules deliver up to ~715W output with optimized cell architecture, increasing energy density and reducing system BOS costs.
+    icon:
+
+  # Feature
+  - name: Low Degradation Rate
+    description: ≤1% first-year degradation and ≤0.4–0.45% annual degradation ensure stable long-term energy yield.
+    icon: 
+
+  # Feature
+  - name: Advanced TOPCon Technology
+    description: N-type TOPCon cell technology improves conversion efficiency and delivers ~6% higher energy generation compared to PERC modules.
+    icon: 
+
+#
+# Core Features Right
+#
+core-features-right:
+  # Feature
+  - name: Excellent Low-Light Performance
+    description: Enhanced cell sensitivity enables consistent power generation under low irradiance and diffuse light conditions.
+    icon: 
+
+  # Feature
+  - name: High Bifacial Efficiency
+    description: High bifaciality design captures additional rear-side irradiance, increasing total system output in suitable installations.
+    icon: 
+
+  # Feature
+  - name: Low Levelized Cost of Energy (LCOE)
+    description: Higher efficiency, lower degradation, and optimized system compatibility reduce overall lifetime energy cost.
+    icon: 
+
+
+#####################################
+##########  Core Features  ##########
+#####################################
+core-title2: Wind Energy Solutions
+core-description2: Our wind energy solutions combine advanced turbine systems with intelligent monitoring and lifecycle support to deliver reliable, high-performance power generation across diverse environments.
+#
+# Core Features Left
+#
+core-features-left2:
+  # Feature
+  - name: High-Efficiency Power Generation
+    description: Modern turbine systems designed to maximize energy output across a wide range of wind conditions.
+    icon:
+
+  # Feature
+  - name: Durable Blade Engineering
+    description: Advanced blade materials and design ensure structural integrity and long-term performance in demanding environments.
+    icon: 
+
+  # Feature
+  - name: Optimized Site Adaptability
+    description: Flexible deployment across diverse terrains and climates, from onshore to complex project environments.
+    icon: 
+
+#
+# Core Features Right
+#
+core-features-right2:
+  # Feature
+  - name: Advanced Monitoring & Diagnostics
+    description: Integrated systems enable real-time performance tracking and early fault detection for improved reliability.
+    icon: 
+
+  # Feature
+  - name: Drone-Assisted Inspection & Maintenance
+    description: High-precision drone technology enables efficient blade inspection, cleaning, and maintenance with reduced downtime.
+    icon: 
+
+  # Feature
+  - name: Comprehensive Lifecycle Support
+    description: End-to-end services including installation, operation, maintenance, and technical upgrades to maximize asset lifespan.
+    icon: 
+
+
+    
 #####################################
 ############### Team ################
 #####################################
