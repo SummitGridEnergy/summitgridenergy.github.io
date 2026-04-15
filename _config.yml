@@ -219,7 +219,7 @@ portfolio:
 #####################################
 ##########  Core Features  ##########
 #####################################
-core-title: Solar Panel Technology
+core-title: Solar Panel Solutions
 core-description: Built on advanced TOPCon cell technology, our solar modules deliver high power output, low degradation, and optimized performance across a wide range of operating conditions.
 #
 # Core Features Left
@@ -304,7 +304,49 @@ core-features-right2:
     icon: 
 
 
-    
+#####################################
+##########  Core Features  ##########
+#####################################
+core-title3: Energy Storage Solutions
+core-description3: Our energy storage systems combine advanced battery technology with intelligent control systems to deliver reliable, safe, and efficient energy management across a wide range of applications.
+#
+# Core Features Left
+#
+core-features-left3:
+  # Feature
+  - name: High-Efficiency Battery Systems
+    description: Advanced lithium battery technology delivers high energy density and efficient charge–discharge performance.
+    icon:
+
+  # Feature
+  - name: Modular & Scalable Design
+    description: Flexible architecture allows capacity expansion from small-scale to utility-scale deployments.
+    icon: 
+
+  # Feature
+  - name: Intelligent Battery Management System (BMS)
+    description: Real-time monitoring and control ensure optimal performance, safety, and extended system lifespan.
+
+#
+# Core Features Right
+#
+core-features-right3:
+  # Feature
+  - name: Integrated Thermal Management
+    description: Efficient cooling systems maintain stable operating temperatures and improve long-term reliability.
+    icon: 
+
+  # Feature
+  - name: High Safety Standards
+    description: Multi-layer protection mechanisms prevent overcharge, overheating, and system faults.
+    icon: 
+
+  # Feature
+  - name: Grid & Hybrid Compatibility
+    description: Supports seamless integration with solar, wind, and grid systems for diverse energy applications.
+    icon: 
+
+
 #####################################
 ############### Team ################
 #####################################
