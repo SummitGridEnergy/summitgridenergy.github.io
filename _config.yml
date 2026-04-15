@@ -92,7 +92,7 @@ mailchimp:
 #############   About   #############
 #####################################
 about-title: Who We Are
-about-description: We are a global provider of integrated renewable energy solutions, delivering end-to-end services across investment, development, construction, and long-term operations. We build efficient and scalable energy infrastructure, including solar, wind, energy storage, and EV charging systems. 
+about-description: SummitGrid Energy Investments Canada Corp. is a Canada-based global new energy investment and operation group. We focus on new energy investment, engineering construction, global supply chain, intelligent energy-saving products, renewable O&M, technical training, and carbon asset services.
 about-description2: With a strong international presence, we support projects across North America, South America, the Middle East, Southeast Asia, and West Africa. Combining global expertise with localized execution, we deliver reliable and sustainable energy solutions tailored to diverse market needs.
 #####################################
 #############  Features  ############
@@ -105,23 +105,23 @@ features-description:
 #
 features:
   # Feature
-  - title: Investment
-    description: We invest in high-impact energy projects, driving sustainable growth and long-term value across global markets.
+  - title: New Energy Project Investment
+    description: We invest in and develop renewable energy projects across solar, wind, storage, and EV infrastructure, including self-owned assets, third-party investments, and energy management contracts.
     icon: pe-7s-cash
 
   # Feature
-  - title: Building
-    description: We design and deliver renewable energy infrastructure with a focus on efficiency, reliability, and scalability.
+  - title: Project Construction & Operation
+    description: We deliver end-to-end project execution, from planning and engineering to EPC construction and full lifecycle operation.
     icon: pe-7s-tools
 
   # Feature
-  - title: Operations
-    description: We operate and optimize energy systems to ensure consistent performance and maximum efficiency.
-    icon: pe-7s-settings
+  - title: Global Supply Chain
+    description: We provide integrated access to energy equipment and technologies, including solar and storage systems, wind power equipment, EV infrastructure, energy-saving solutions, and industrial-grade technologies.
+    icon: pe-7s-global
 
   # Feature
-  - title: Aftermarket Services
-    description: We provide maintenance, inspection, technical support, and upgrades to extend asset life and ensure peak performance.
+  - title: Aftermarket & Energy Services
+    description: We support long-term performance through maintenance, inspection, technical training, and carbon management services, including verification and asset optimization.
     icon: pe-7s-refresh-2
 
 #####################################
